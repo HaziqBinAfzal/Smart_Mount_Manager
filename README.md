@@ -1,43 +1,33 @@
-## 📤 Push changes to GitHub
+# Smart Mount Manager
 
-After editing the file, run:
+## 📌 Overview
+Smart Mount Manager is a Linux-based utility designed to simplify and automate mount operations. It helps users manage mounting and unmounting tasks easily using a shell script.
 
+---
+
+## ⚙️ Features
+- Easy mount management using shell scripts  
+- Lightweight and fast execution  
+- Beginner-friendly Linux automation tool  
+- Reduces manual errors  
+
+---
+
+## 🛠️ Technologies Used
+- Bash (Shell Scripting)  
+- Linux Ubuntu  
+- Git & GitHub  
+
+---
+
+## 📂 Project Structure
+- `mount_manager.sh` → Main script  
+- `README.md` → Documentation  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository
 ```bash
-git add README.md
-git commit -m "improve README with detailed description"
-git push
-
----
-
----
-
-## 💾 STEP 3: Save file
-Press:
-- `CTRL + O` → save
-- `Enter` → confirm
-- `CTRL + X` → exit
-
----
-
-## 📤 STEP 4: Push your changes
-
-```bash id="s4"
-git add README.md
-git commit -m "fix README formatting"
-git push
-
-### 5. Save and exit nano
-
-Press:
-- `CTRL + O` → save  
-- `Enter`  
-- `CTRL + X` → exit  
-
----
-
-### 6. Push the fix to GitHub
-
-```bash id="finalpush"
-git add README.md
-git commit -m "fix README formatting"
-git push
+git clone https://github.com/HaziqBinAfzal/Smart_Mount_Manager.git
